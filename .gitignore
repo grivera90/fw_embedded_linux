@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+build/
+.vscode/
+*.bin
+*.elf
+fw_embedded_linux
