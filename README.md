@@ -22,7 +22,7 @@ For each repo execute this cmd's
 
 or in the project for init and update all submodules (recommended by me)
 
-  - git clone --recursive git@bitbucket.org:cuffiateam/ecu_siap_x86_64_linux.git
+  - git clone --recursive git@github.com:grivera90/fw_embedded_linux.git
 
 ## Built With
 
