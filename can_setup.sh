@@ -2,7 +2,7 @@
 
 can=$1
 baud=$2
-password="7913cuffia"
+password="password"
 
 echo "selected can: $can"
 echo "set baud: $baud"

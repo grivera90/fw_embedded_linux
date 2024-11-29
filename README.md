@@ -39,6 +39,8 @@ or in the project for init and update all submodules (recommended by me)
   - Confirm output build and check if executable file "fw_embedded_linux" was created
 
 ## Use
+  - In the line 5 of can_setup.sh file input your linux password:
+    - password="password".
   - See can_configuration.conf:
     - nano can_configuration.conf
     - For "can_port" parameter select "vcan0" to virtual can or "can0" to can device.
