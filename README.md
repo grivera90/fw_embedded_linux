@@ -4,14 +4,13 @@ This repository contains a firmware generic for microcontrollers or linux embedd
 
 ## Submodules
 
-  - [app]()
-  - [bsp_linux]()
-  - [libraries/cli_board]()
-  - [libraries/configuration_parser]()
-  - [libraries/file_binary_pack]()
-  - [libraries/log_debug]()
-  - [libraries/ring_buffer]()
-  - [libraries/scheduler]()
+  - [bsp_linux](https://github.com/grivera90/bsp_linux)
+  - [libraries/cli_board](https://github.com/grivera90/cli_board)
+  - [libraries/configuration_parser](https://github.com/grivera90/configuration_parser)
+  - [libraries/file_binary_pack](https://github.com/grivera90/file_binary_pack)
+  - [libraries/log_debug](https://github.com/grivera90/log_debug)
+  - [libraries/ring_buffer](https://github.com/grivera90/ring_buffer)
+  - [libraries/scheduler](https://github.com/grivera90/scheduler)
 
 ## Download
 
@@ -57,7 +56,7 @@ or in the project for init and update all submodules (recommended by me)
 
 ## Authors
 
-  - [Gonzalo Rivera](gonzalorveras90@gmail.com)
+  - [Gonzalo Rivera](gonzaloriveras90@gmail.com)
 
 ## License
 
