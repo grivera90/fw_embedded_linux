@@ -7,3 +7,6 @@
 [submodule "libraries/configuration_parser"]
 	path = libraries/configuration_parser
 	url = git@github.com:grivera90/configuration_parser.git
+[submodule "libraries/file_binary_pack"]
+	path = libraries/file_binary_pack
+	url = git@github.com:grivera90/file_binary_pack.git
