@@ -1,3 +1,6 @@
 [submodule "bsp_linux"]
 	path = bsp_linux
 	url = git@github.com:grivera90/bsp_linux.git
+[submodule "libraries/cli_board"]
+	path = libraries/cli_board
+	url = git@github.com:grivera90/cli_board.git
