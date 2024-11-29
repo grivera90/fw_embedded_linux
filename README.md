@@ -42,14 +42,14 @@ or in the project for init and update all submodules (recommended by me)
 ## Use
   - See can_configuration.conf:
     - nano can_configuration.conf
-    - For "can_port" parameter select "vcan0" to virtual can or "can0" to can device
+    - For "can_port" parameter select "vcan0" to virtual can or "can0" to can device.
   - In a terminal: 
     - cd fw_embedded_linux/
     - ./fw_embedded_linux
-  In fw_embedded_linux/ there is an file "run.sh". You can execute that in a terminal to run fw_embedded_linux firmware with some parameters.
-  Format:  "./run.sh <-v> `<target>`". -v parameter is optional
+  - In fw_embedded_linux/ there is an file "run.sh". You can execute that in a terminal to run fw_embedded_linux firmware with some parameters. 
+  - Format:  "./run.sh <-v> `<target>`". -v parameter is optional.
     - Option 1: "./run.sh -v fw_embedded_linux". The -v parameter run the firmware with a CLI separated to interact with the program.
-    - Option 2: "./run.sh fw_embedded_linux". Without CLI
+    - Option 2: "./run.sh fw_embedded_linux" without CLI.
 
 ## Deployment
 
