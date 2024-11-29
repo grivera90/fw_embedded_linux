@@ -16,3 +16,6 @@
 [submodule "libraries/ring_buffer"]
 	path = libraries/ring_buffer
 	url = git@github.com:grivera90/ring_buffer.git
+[submodule "libraries/scheduler"]
+	path = libraries/scheduler
+	url = git@github.com:grivera90/scheduler.git
