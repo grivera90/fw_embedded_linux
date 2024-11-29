@@ -13,3 +13,6 @@
 [submodule "libraries/log_debug"]
 	path = libraries/log_debug
 	url = git@github.com:grivera90/log_debug.git
+[submodule "libraries/ring_buffer"]
+	path = libraries/ring_buffer
+	url = git@github.com:grivera90/ring_buffer.git
