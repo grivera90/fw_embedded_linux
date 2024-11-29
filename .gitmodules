@@ -10,3 +10,6 @@
 [submodule "libraries/file_binary_pack"]
 	path = libraries/file_binary_pack
 	url = git@github.com:grivera90/file_binary_pack.git
+[submodule "libraries/log_debug"]
+	path = libraries/log_debug
+	url = git@github.com:grivera90/log_debug.git
