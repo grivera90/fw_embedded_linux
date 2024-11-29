@@ -4,3 +4,6 @@
 [submodule "libraries/cli_board"]
 	path = libraries/cli_board
 	url = git@github.com:grivera90/cli_board.git
+[submodule "libraries/configuration_parser"]
+	path = libraries/configuration_parser
+	url = git@github.com:grivera90/configuration_parser.git
