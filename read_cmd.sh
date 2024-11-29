@@ -18,7 +18,8 @@
 program=$1
 pipe_tx=/tmp/pipe_tx
 pipe_rx=/tmp/pipe_rx
-my_prompt="virtual node input cmd: "
+my_prompt="$: "
+instructions="Please type vboard -h to more information"
 ################################################################################
 #                               BODY
 ################################################################################
@@ -44,6 +45,8 @@ if [[ ! -p $pipe_rx ]]; then
     mknod $pipe_rx p
     exec 7<>$pipe_rx
 fi
+
+echo "$instructions"
 
 while :
 do
